@@ -48,7 +48,3 @@ class Producto {
 
 
 #endif /* Producto_hpp */
-
-
-
-
